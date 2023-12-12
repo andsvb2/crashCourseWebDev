@@ -25,9 +25,9 @@ async function loadFacts() {
     {
       headers: {
         apikey:
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZmdWN2eW5vcHB6dXBsZXdveW9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgwMjE1NTEsImV4cCI6MjAxMzU5NzU1MX0.bnfyjbjil2yKcf9fi1xNpit5-EqJjInM_zcPc445fOs",
+          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZmdWN2eW5vcHB6dXBsZXdveW9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgwMjE1NTEsImV4cCI6MjAxMzU5NzU1MX0.bnfyjbjil2yKcf9fi1xNpit5-EqJjInM_zcPc445fOs", // API Key disabled
         authorization:
-          "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZmdWN2eW5vcHB6dXBsZXdveW9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgwMjE1NTEsImV4cCI6MjAxMzU5NzU1MX0.bnfyjbjil2yKcf9fi1xNpit5-EqJjInM_zcPc445fOs",
+          "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZmdWN2eW5vcHB6dXBsZXdveW9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgwMjE1NTEsImV4cCI6MjAxMzU5NzU1MX0.bnfyjbjil2yKcf9fi1xNpit5-EqJjInM_zcPc445fOs", // Authorization Token disabled
       },
     }
   );
